@@ -21,7 +21,7 @@ Introduction to Political Science (Instructors: [Konstantinos Kourtikakis](https
 
 Comparative Politics in Developing Nations (Instructor: [Matthew S. Winters](https://pol.illinois.edu/directory/profile/mwinters))
 
-Strategic Models (Instructor: [Sarah Hummel] (https://undergrad.gov.harvard.edu/people/sarah-hummel))
+Strategic Models (Instructor: [Sarah Hummel](https://undergrad.gov.harvard.edu/people/sarah-hummel))
 
 The US Constitution (Instructor: [Alicia Uribe-McGuire](https://pol.illinois.edu/directory/profile/aburibe))
 
