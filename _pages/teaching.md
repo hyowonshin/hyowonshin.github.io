@@ -9,7 +9,7 @@ author_profile: true
 ### University of Illinois at Urbana-Champaign
 Introduction to Global Studies ([Syllabus](/files/GLBL100SyllabusFA22.pdf))
 
-Comparative Politics in Developing Nations 
+Comparative Politics in Developing Nations (in-person and online)
 ([Syllabus](/files/PS241Syllabus.pdf))
 
 ## Graduate Teaching Assistant
