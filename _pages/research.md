@@ -8,10 +8,10 @@ author_profile: true
 ------
 ["The Effect of Outgroup Trust on Cross Ethic Voting via Imagined Intergroup Contact: Experimental Evidence from the US Student and Myanmar Migrant Sample."](/files/SHIN_Writing_Sample.pdf)
 
-["Outgroup Trust and Cross Ethnic Voting in New Democracies: Evidence from Sub-Saharan Africa."](/files/SHIN_CH3_TRUSTABS.pdf)
-
 ## Working Papers
 ------
+["Outgroup Trust and Cross Ethnic Voting in New Democracies: Evidence from Sub-Saharan Africa."](/files/SHIN_CH3_TRUSTABS.pdf)
+
 [“Who is a “Migrant” in the Study of Migrant Incorporation?: Broadening Our Understanding of Migrant Populations.”](/files/SHIN_Migrant.pdf) (with [Matthew S. Winters](https://pol.illinois.edu/directory/profile/mwinters), [Cara Wong](https://pol.illinois.edu/directory/profile/carawong), and [Yuan-Ning Chu](https://pol.illinois.edu/directory/profile/ychu19))
 
 “Singapore Migrant Political Participation: Home versus Host Country.” (with [Matthew S. Winters](https://pol.illinois.edu/directory/profile/mwinters), [Cara Wong](https://pol.illinois.edu/directory/profile/carawong), and [Yuan-Ning Chu](https://pol.illinois.edu/directory/profile/ychu19))
