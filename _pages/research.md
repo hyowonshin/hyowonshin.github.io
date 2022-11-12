@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Job Talk Paper
 ------
-["The Effect of Outgroup Trust on Cross Ethic Voting via Imagined Intergroup Contact: Experimental Evidence from the US Student and Myanmar Migrant Sample."](/files/SHIN_Writing_Sample.pdf)
+["The Effect of Outgroup Trust on Cross Ethic Voting: Evidence from an Imagined Intergroup Contact Experiment."](/files/SHIN_Writing_Sample.pdf)
 
 ## Working Papers
 ------
