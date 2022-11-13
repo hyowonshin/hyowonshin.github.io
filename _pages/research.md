@@ -18,6 +18,8 @@ author_profile: true
 
 ## Work in Progress
 ------
-“Overseas Voting and Election Legitimacy in Latin America.” (with [Matthew S. Winters](https://pol.illinois.edu/directory/profile/mwinters), [Cara Wong](https://pol.illinois.edu/directory/profile/carawong), and [Jair Moreira](https://pol.illinois.edu/directory/profile/jairam2))
+"The Effect of Outgroup Trust on Cross Ethnic Voting: Testing the Mechanisms."
 
 "Outgroup Trust, Partisan Identity, and Political Behaviors in the United States." 
+
+“Overseas Voting and Election Legitimacy in Latin America.” (with [Matthew S. Winters](https://pol.illinois.edu/directory/profile/mwinters), [Cara Wong](https://pol.illinois.edu/directory/profile/carawong), and [Jair Moreira](https://pol.illinois.edu/directory/profile/jairam2))
