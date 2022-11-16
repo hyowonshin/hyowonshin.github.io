@@ -11,7 +11,6 @@ author_profile: true
 This study examines the effect of outgroup trust on an individual's likelihood to engage in cross ethnic voting or voting for a non-co-ethnic candidate in contexts where ethnicity is politically salient. To test this, I conducted an experiment manipulating the level of outgroup trust on two different population samples: U.S. undergraduate students in a mid-western university and Myanmar migrants living the United States. I find that in both population samples, outgroup trust was positively correlated with the likelihood of voting for a non-co-ethnic candidate. The intended effect of the imagined intergroup contact treatment, however, was present in both samples, but the effect was estimated with more certainty among the U.S. student sample. Contrary to my expectation, the imagined intergroup contact had a negative effect on voting for a non-co-ethnic candidate. Yet, this effect was only statistically significant among the Myanmar migrant sample, but not the U.S. student sample. 
 \
 \
-
 ## Working Papers
 ------
 **["Outgroup Trust and Cross Ethnic Voting in New Democracies: Evidence from Sub-Saharan Africa."](/files/SHIN_CH3_TRUSTABS.pdf)**
@@ -29,7 +28,6 @@ The study of migrant populations involves difficult decisions about who to inclu
 Do migrants, once abroad, try to retain political connections with their home country or put more effort in engaging with politics of the host country? Our study focuses on the case of migrants in Singapore and contributes to the ongoing debate on the relationship between political participation in the country of origin and the country of residence. Using originally collected survey data among 441 immigrants born outside of Singapore, we find support that political participation in a host country environment may be correlated with an immigrant's inclination to participate in transnational politics in their homeland, even when those immigrants show a high level of socioeconomic incorporation. This study is supported by the Illinois Global Institute's Migration and Refugees in Regional and Global Perspectives Initiatives and by the Center for Social and Behavioral Studies at the University of Illinois. 
 \
 \
-
 ## Work in Progress
 ------
 **"The Effect of Outgroup Trust on Cross Ethnic Voting: Testing the Mechanisms."**
