@@ -6,6 +6,17 @@ author_profile: true
 ---
 ## Instructor-of-Record
 ------
+### University of Central Arkansas
+Introduction to Comparative Politics ([Syllabus](/files/PSCI2320SyllabusSP26.pdf))
+
+Politics of Developing Nations ([Syllabus](/files/PSCI3382Syllabus.pdf))
+
+Government and Politics in Southeast Asia ([Syllabus](/files/PSCI4340Syllabus.pdf))
+
+International Migration Laws & Policies ([Syllabus](/files/PSCI4340SyllabusMigration.pdf))
+
+US Government and Politics ([Syllabus](/files/PSCI1330Syllabus.pdf))
+
 ### University of Illinois at Urbana-Champaign
 Introduction to Global Studies ([Syllabus](/files/GLBL100SyllabusFA22.pdf))
 
@@ -24,4 +35,3 @@ Comparative Politics in Developing Nations (Instructor: [Matthew S. Winters](htt
 Strategic Models (Instructor: [Sarah Hummel](https://undergrad.gov.harvard.edu/people/sarah-hummel))
 
 The US Constitution (Instructor: [Alicia Uribe-McGuire](https://pol.illinois.edu/directory/profile/aburibe))
-
